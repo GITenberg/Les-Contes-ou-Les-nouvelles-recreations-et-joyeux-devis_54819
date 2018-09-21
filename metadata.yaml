@@ -1,0 +1,46 @@
+_repo: Les-Contes-ou-Les-nouvelles-recreations-et-joyeux-devis_54819
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Nodier
+    - http://en.wikipedia.org/wiki/Charles_Nodier
+creator:
+  author:
+    agent_name: Périers, Bonaventure Des
+    gutenberg_agent_id: '48057'
+    url: http://www.gutenberg.org/2009/agents/48057
+  editor:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Dufour, Pierre
+    - Jacob, Paul L.
+    - Jacob, Bibliophile
+    - Lacroix, Paul
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2017-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54819'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les Contes
+
+  ou Les nouvelles récréations et joyeux devis'
+url: http://www.gutenberg.org/ebooks/54819

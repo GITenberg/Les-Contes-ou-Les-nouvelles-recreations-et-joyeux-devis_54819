@@ -1,5 +1,5 @@
 _repo: Les-Contes-ou-Les-nouvelles-recreations-et-joyeux-devis_54819
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Nodier, Charles
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://fr.wikipedia.org/wiki/Charles_Nodier
     - http://en.wikipedia.org/wiki/Charles_Nodier
+covers:
+- cover_type: archival
+  image_path: 54819-h/images/cover.jpg
 creator:
   author:
     agent_name: Périers, Bonaventure Des
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4290
     wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54819#Les-Contes-ou-Les-nouvelles-recreations-et-joyeux-devis
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2017-05-31'
 gutenberg_type: Text
